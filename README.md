@@ -119,4 +119,10 @@ Download the installable v2.1 module from the repository's **Releases** page. Th
 
 ## Disclaimer
 
-Use at your own discretion. Android graphics behaviour varies by device and ROM. The author is not responsible for game crashes, lost game data, device instability or other issues arising from use. Always keep backups and understand the changes before applying them.
+
+⚠️ Disclaimer & Usage Instructions
+
+- Default Mode: Game GPU Repair is set to Native GPU mode by default.
+- My Recommendation: I suggest trying Native mode first.
+- If Native mode does not work as expected, try ANGLE mode.
+- If ANGLE mode causes issues, switch back to Native mode.
